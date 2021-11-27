@@ -1,0 +1,250 @@
+body {
+    margin: 0px;
+    padding:0px;
+    }
+    
+    .header1 {
+    background-color :black;
+    height: 50px;px;
+    }
+    .email{
+    float:left;
+    margin-left:150px;
+    margin-top:15px;
+    }
+    
+    .header1-left {
+    color:cornsilk;
+    font-size:20px;
+    }
+    
+    .socialmedia {
+    float:right;
+    margin-top:15px;
+    margin-right:150px;
+    display: block !important;
+    }
+    
+    .wrapper1 {
+    background-image:url("blog-5.jpg");
+    height:700px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+            
+    .wrapper1-left {
+    margin-left:80px;
+    margin-top:25px;
+    float:left;
+    }
+    
+    #icon-colour {
+    color:cornsilk;
+    }
+    #icon-text {
+    font-size:50px;
+    font-family:proxima nova;
+    color:whitesmoke;
+    }
+    
+    .wrapper1-right{
+        float:right;
+        margin-right:50px;
+        margin-top:10px;
+        font-size:25px;
+        
+    }
+    .wrapper1-right ul {
+        list-style-type:none;
+        color:white;
+    }
+
+    .wrapper1-right li {
+        float:left;
+    }
+    
+    .wrapper1-right li a {
+        text-decoration:none;
+        color:white;
+        
+    }
+
+    .wrapper1-right li a:hover {
+        color:yellowgreen;
+    }
+    .container {
+        position: absolute;
+        top:200px;
+        left:250px;
+    }
+    #text1{
+        color:blanchedalmond;
+        font-size:60px;
+        font-weight: 500;
+    }
+
+    #text2{
+        color:whitesmoke;
+        font-size:90px;
+        margin:30px 0px 20px 0px;
+        font-weight:bolder;
+        
+    }
+    #text3{
+        font-weight:bolder;
+        color:whitesmoke;
+        font-size:25px;
+        font-style: italic;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .contact-us{
+        margin-top:30px;
+        background-color:black;
+        padding:15px 50px;
+        display:inline-block;
+        border-radius:15px;
+        cursor:pointer;
+    }
+    .contact-us a{
+        text-decoration: none;
+        font-size:20px;
+        font-weight: bold;
+        color:white;
+    }
+    .contact-us:hover {
+        background-color:rgb(82, 213, 223);
+    }
+    .wrapper2{
+    background-image: url("blog-5.jpg");
+    background-size: cover;
+    }
+    .services {
+        position:absolute;
+        top:650px;
+        height:200px;
+        width:100%;
+        background-color:black;
+    }
+    .box1 {
+        float:left;
+        background-color:black;
+        padding:67px 50px;
+        text-align:center;
+        background-color:black;
+    }
+    .box2{
+        float:left;
+        background-color:orangered ;
+        padding:67px 80px;
+        text-align:center;
+        margin-inline-start:10px;
+        margin-inline-end:10px;
+        text-decoration-color: tomato;
+    }
+    .box-text {
+        color:blanchedalmond;
+        font-size:20px;
+    }
+    .services h3{
+        margin-block-start:0px;
+        }
+        .services h2{
+        margin-block-end:0px;
+        margin-block-start:35px;
+        }
+    .welcome-text{
+        margin-top: 200px;
+        text-align:center;
+        color:cornsilk;
+    }
+    .txt1{
+        font-size:40px;
+        font-weight:bolder;
+        letter-spacing:0px;
+        word-spacing:1px;
+        color: snow;
+    }
+    .txt2{
+        font-size:20px;
+        
+    }
+    .clean-image{
+        text-align:center;
+        padding:40px;
+    }
+    .image{
+        border-style:solid;
+        border-width:20px;
+        border-color: black;
+        margin-inline-start:10px;
+        margin-inline-end:10px;
+    }
+    .wrapper3 {
+        background-color:black;
+        height:600px;
+    }
+    .container3 {
+        padding-top:75px;
+        padding-left:200px;
+        padding-right:75px;
+    }
+    #request {
+        font-size:50px;
+        color: blanchedalmond;
+    }
+    #call {
+        font-size:50px;
+        color:white;
+    }
+    #name {
+        height:40px;
+        width:40%;
+        margin-block-end: 10px;
+        margin-block-start:30px;
+        border-style:ridge;
+        border-width:4px;
+        border-color:white;
+        padding-left:10px;
+    }
+    #email {
+        height:40px;
+        width:40%;
+        margin-block-end: 10px;
+        margin-block-start:10px;
+        border-style:ridge;
+        border-width:4px;
+        border-color:white;
+        padding-left:10px;
+    }
+    #phone {
+        height:40px;
+        width:40%;
+        margin-block-end: 10px;
+        margin-block-start:10px;
+        border-style:ridge;
+        border-width:4px;
+        border-color:white;
+        padding-left:10px;
+    }
+    #message {
+        height:100px;
+        width:40%;
+        margin-block-start:10px;
+        margin-block-end: 10px;
+        border-style:ridge;
+        border-width:4px;
+        border-color:white;
+        padding-left:10px;
+    }
+    #form-image {
+        float:right;
+        width:55%;
+        margin-block-start:50px;
+    }
+    #send {
+        padding:15px 60px;
+        margin-block-start:10px;
+        border-style:ridge;
+        border-width:3px;
+        border-color:white;
+    }
